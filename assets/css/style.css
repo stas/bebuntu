@@ -8,10 +8,23 @@ body {
     font-family: "Georgia", serif;
 }
 
+p {
+    padding: 3px 0;
+}
+
 #content {
     width: 700px;
     margin: 0 auto;
     padding: 5px;
+}
+
+#menu {
+    margin: 5px 0;
+}
+
+#menu li {
+    display: inline;
+    padding: 3px 5px 3px 0;
 }
 
 .message {

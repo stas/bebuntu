@@ -2,19 +2,20 @@
     class login_controller {
         
         function index() {
-            $user = new Session;
+            $this->user = new Session;
             $this->title = "Login";
             $this->message = "Welcome to BeBuntu!";
             
-            if(($_POST['openid_action'] || $_GET['openid_mode'] || $_GET['openid_mode'] ) && ($user->get('nickname') == null)) {
+            if(($_POST['openid_action'] || $_GET['openid_mode'] || $_GET['openid_mode'] )) {
                 $this->login();
             }
-            else if($user->get('nickname') != null) {
+            
+            if($this->user->get('nickname')) {
                 redirect('admin/');
             }
             else
                 $this->message .= " Please login.";
-            print_r($user);
+                
             pass_var('message', $this->message);
             pass_var('title', $this->title);
         }
@@ -42,9 +43,9 @@
                 $openid->SetIdentity($_GET['openid_identity']);
                 $openid_validation_result = $openid->ValidateWithServer();
                 if ($openid_validation_result == true){
-                        $user->set('nickname', $_GET['openid_sreg_nickname']);
-                        $user->set('identity', $_GET['openid_identity']);
-                        $this->message = "Welcome ".$user->get('nickname');
+                        $this->user->set('nickname', $_GET['openid_sreg_nickname']);
+                        $this->user->set('identity', $_GET['openid_identity']);
+                        $this->message = "Welcome ".$this->user->get('nickname');
                 }else if($openid->IsError() == true){
                         $error = $openid->GetError();
                         $this->message = "ERROR CODE: " . $error['code'] . "<br/>";
@@ -59,9 +60,11 @@
         
         // Logout
         function logout() {
-            $user->destroy();
+            $this->user = new Session;
+            $this->user->destroy();
             $this->message = "Good buy!";
             pass_var('message', $this->message);
+            redirect('');
         }
         
     }

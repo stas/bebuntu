@@ -3,16 +3,14 @@
         
         function session(){
             session_start();
+            global $_SESSION;
         }
         
         function set($name, $value){
-            $result = true;
-            if(!empty($name) || !empty($value))
-                $result = false;
+            if(!$name || !$value)
+                return false;
             else
                 $_SESSION[$name] = $value;
-            
-            return $result;
         }
         
         function get($name) {

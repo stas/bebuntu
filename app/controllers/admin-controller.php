@@ -1,20 +1,16 @@
 <?php
-    class admin_controller {
+    class admin_controller extends Admins {
         function index() {
+            $this->user = new Session;
             $this->title = "Administration panel";
-            /*
-            if($user->get('nickname')) {
-                $this->message = "Welcome ".$user->get('nickname');
-                var_pass('message', $this->message);
+            
+            if($this->user->get('nickname')) {
+                $this->message = "Welcome ".$this->user->get('nickname');
+                pass_var('message', $this->message);
             }
             else
-                echo "A";
-                //redirect("index.php/login/");
-            */
-            if(isset($user))
-                var_dump($user);
-                
-                
+                redirect("login/");
+            
             pass_var('title', $this->title);
         }
     }
