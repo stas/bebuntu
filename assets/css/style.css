@@ -1,0 +1,23 @@
+/**
+ * Bebuntu v1
+ * March, 2009
+ * Stas SUSHKOV (stas@ubuntu.ro)
+ */
+
+body {
+    font-family: "Georgia", serif;
+}
+
+#content {
+    width: 700px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.message {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    margin: 5px 0;
+    color: #cc0000;
+}

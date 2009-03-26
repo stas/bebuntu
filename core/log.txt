@@ -1,0 +1,1278 @@
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6a480%7D%7Bz65qZw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T20%3A50%3A08ZBntSBD&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Flogin&openid.sig=Zk%2FAVpAb2tj6Hf7qFRHmnB2xhrA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+SELECT * FROM posts  
+
+GET /login
+
+SELECT * FROM posts  
+
+GET /login
+
+SELECT * FROM posts  
+
+GET /index.php/login
+
+
+GET /login
+
+SELECT * FROM posts  
+
+GET /login
+
+SELECT * FROM posts  
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b11e%7D%7Bs5M7kw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A43%3A58Z55xbYr&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=vqucpUsWX7Ck57fRkciwhdd%2BmNQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b11e%7D%7Bs5M7kw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A43%3A58Z55xbYr&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=vqucpUsWX7Ck57fRkciwhdd%2BmNQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b11e%7D%7Bs5M7kw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A43%3A58Z55xbYr&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=vqucpUsWX7Ck57fRkciwhdd%2BmNQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b547%7D%7BMe4YCg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A01%3A43ZWta2j0&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%26openid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b11e%257D%257Bs5M7kw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A43%253A58Z55xbYr%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%253Fopenid.assoc_handle%253D%25257BHMAC-SHA1%25257D%25257B49c6b027%25257D%25257B%25252BBa7Gw%25253D%25253D%25257D%2526openid.identity%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bid%25252FHDnmz4T%2526openid.mode%253Did_res%2526openid.op_endpoint%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bopenid%2526openid.response_nonce%253D2009-03-22T21%25253A39%25253A51ZkKACbd%2526openid.return_to%253Dhttp%25253A%25252F%25252Fbebuntu.t.nerd.ro%25252Findex.php%25252Flogin%2526openid.sig%253D85FdbDqnFhBxGE9CpFYcJW84btA%25253D%2526openid.signed%253Dassoc_handle%25252Cidentity%25252Cmode%25252Cop_endpoint%25252Cresponse_nonce%25252Creturn_to%25252Csigned%26openid.sig%3DvqucpUsWX7Ck57fRkciwhdd%252BmNQ%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=z%2BqJAd1HhQkHtqdNkkzVh9PtAC4%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b11e%7D%7Bs5M7kw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A43%3A58Z55xbYr&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=vqucpUsWX7Ck57fRkciwhdd%2BmNQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b547%7D%7BMe4YCg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A01%3A43ZWta2j0&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%26openid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b11e%257D%257Bs5M7kw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A43%253A58Z55xbYr%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%253Fopenid.assoc_handle%253D%25257BHMAC-SHA1%25257D%25257B49c6b027%25257D%25257B%25252BBa7Gw%25253D%25253D%25257D%2526openid.identity%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bid%25252FHDnmz4T%2526openid.mode%253Did_res%2526openid.op_endpoint%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bopenid%2526openid.response_nonce%253D2009-03-22T21%25253A39%25253A51ZkKACbd%2526openid.return_to%253Dhttp%25253A%25252F%25252Fbebuntu.t.nerd.ro%25252Findex.php%25252Flogin%2526openid.sig%253D85FdbDqnFhBxGE9CpFYcJW84btA%25253D%2526openid.signed%253Dassoc_handle%25252Cidentity%25252Cmode%25252Cop_endpoint%25252Cresponse_nonce%25252Creturn_to%25252Csigned%26openid.sig%3DvqucpUsWX7Ck57fRkciwhdd%252BmNQ%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=z%2BqJAd1HhQkHtqdNkkzVh9PtAC4%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b11e%7D%7Bs5M7kw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A43%3A58Z55xbYr&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=vqucpUsWX7Ck57fRkciwhdd%2BmNQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b547%7D%7BMe4YCg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A01%3A43ZWta2j0&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%26openid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b11e%257D%257Bs5M7kw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A43%253A58Z55xbYr%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%253Fopenid.assoc_handle%253D%25257BHMAC-SHA1%25257D%25257B49c6b027%25257D%25257B%25252BBa7Gw%25253D%25253D%25257D%2526openid.identity%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bid%25252FHDnmz4T%2526openid.mode%253Did_res%2526openid.op_endpoint%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bopenid%2526openid.response_nonce%253D2009-03-22T21%25253A39%25253A51ZkKACbd%2526openid.return_to%253Dhttp%25253A%25252F%25252Fbebuntu.t.nerd.ro%25252Findex.php%25252Flogin%2526openid.sig%253D85FdbDqnFhBxGE9CpFYcJW84btA%25253D%2526openid.signed%253Dassoc_handle%25252Cidentity%25252Cmode%25252Cop_endpoint%25252Cresponse_nonce%25252Creturn_to%25252Csigned%26openid.sig%3DvqucpUsWX7Ck57fRkciwhdd%252BmNQ%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=z%2BqJAd1HhQkHtqdNkkzVh9PtAC4%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b027%7D%7B%2BBa7Gw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A39%3A51ZkKACbd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=85FdbDqnFhBxGE9CpFYcJW84btA%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b11e%7D%7Bs5M7kw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T21%3A43%3A58Z55xbYr&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=vqucpUsWX7Ck57fRkciwhdd%2BmNQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b547%7D%7BMe4YCg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A01%3A43ZWta2j0&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b027%257D%257B%252BBa7Gw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A39%253A51ZkKACbd%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D85FdbDqnFhBxGE9CpFYcJW84btA%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%26openid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b11e%257D%257Bs5M7kw%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T21%253A43%253A58Z55xbYr%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%253Fopenid.assoc_handle%253D%25257BHMAC-SHA1%25257D%25257B49c6b027%25257D%25257B%25252BBa7Gw%25253D%25253D%25257D%2526openid.identity%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bid%25252FHDnmz4T%2526openid.mode%253Did_res%2526openid.op_endpoint%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bopenid%2526openid.response_nonce%253D2009-03-22T21%25253A39%25253A51ZkKACbd%2526openid.return_to%253Dhttp%25253A%25252F%25252Fbebuntu.t.nerd.ro%25252Findex.php%25252Flogin%2526openid.sig%253D85FdbDqnFhBxGE9CpFYcJW84btA%25253D%2526openid.signed%253Dassoc_handle%25252Cidentity%25252Cmode%25252Cop_endpoint%25252Cresponse_nonce%25252Creturn_to%25252Csigned%26openid.sig%3DvqucpUsWX7Ck57fRkciwhdd%252BmNQ%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=z%2BqJAd1HhQkHtqdNkkzVh9PtAC4%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b5aa%7D%7BajtDGg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A03%3A22ZCZScuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OhkyoUEIB%2FhZvetrWxxr2eISPzw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b5aa%7D%7BajtDGg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A03%3A22ZCZScuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OhkyoUEIB%2FhZvetrWxxr2eISPzw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b5aa%7D%7BajtDGg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A03%3A22ZCZScuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OhkyoUEIB%2FhZvetrWxxr2eISPzw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b5aa%7D%7BajtDGg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A03%3A22ZCZScuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OhkyoUEIB%2FhZvetrWxxr2eISPzw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b649%7D%7B1ZnVqA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A06%3A01ZBTQjY4&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b5aa%257D%257BajtDGg%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A03%253A22ZCZScuk%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DOhkyoUEIB%252FhZvetrWxxr2eISPzw%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=XmYvlPwcVJ4UGmsD7U26cXTmEsI%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b5aa%7D%7BajtDGg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A03%3A22ZCZScuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OhkyoUEIB%2FhZvetrWxxr2eISPzw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b649%7D%7B1ZnVqA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A06%3A01ZBTQjY4&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b5aa%257D%257BajtDGg%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A03%253A22ZCZScuk%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DOhkyoUEIB%252FhZvetrWxxr2eISPzw%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=XmYvlPwcVJ4UGmsD7U26cXTmEsI%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b5aa%7D%7BajtDGg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A03%3A22ZCZScuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OhkyoUEIB%2FhZvetrWxxr2eISPzw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b649%7D%7B1ZnVqA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A06%3A01ZBTQjY4&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b5aa%257D%257BajtDGg%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A03%253A22ZCZScuk%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DOhkyoUEIB%252FhZvetrWxxr2eISPzw%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=XmYvlPwcVJ4UGmsD7U26cXTmEsI%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b88b%7D%7Bzxw1xQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A15%3A39ZfP7JzV&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b5aa%257D%257BajtDGg%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A03%253A22ZCZScuk%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DOhkyoUEIB%252FhZvetrWxxr2eISPzw%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%26openid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b649%257D%257B1ZnVqA%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A06%253A01ZBTQjY4%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%253Fopenid.assoc_handle%253D%25257BHMAC-SHA1%25257D%25257B49c6b5aa%25257D%25257BajtDGg%25253D%25253D%25257D%2526openid.identity%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bid%25252FHDnmz4T%2526openid.mode%253Did_res%2526openid.op_endpoint%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bopenid%2526openid.response_nonce%253D2009-03-22T22%25253A03%25253A22ZCZScuk%2526openid.return_to%253Dhttp%25253A%25252F%25252Fbebuntu.t.nerd.ro%25252Findex.php%25252Flogin%2526openid.sig%253DOhkyoUEIB%25252FhZvetrWxxr2eISPzw%25253D%2526openid.signed%253Dassoc_handle%25252Cidentity%25252Cmode%25252Cop_endpoint%25252Cresponse_nonce%25252Creturn_to%25252Csigned%26openid.sig%3DXmYvlPwcVJ4UGmsD7U26cXTmEsI%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=UC6rE7D7j1XLXlE1tOe74nBo0Sw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b5aa%7D%7BajtDGg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A03%3A22ZCZScuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OhkyoUEIB%2FhZvetrWxxr2eISPzw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b649%7D%7B1ZnVqA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A06%3A01ZBTQjY4&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b5aa%257D%257BajtDGg%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A03%253A22ZCZScuk%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DOhkyoUEIB%252FhZvetrWxxr2eISPzw%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=XmYvlPwcVJ4UGmsD7U26cXTmEsI%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b88b%7D%7Bzxw1xQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A15%3A39ZfP7JzV&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b5aa%257D%257BajtDGg%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A03%253A22ZCZScuk%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DOhkyoUEIB%252FhZvetrWxxr2eISPzw%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%26openid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b649%257D%257B1ZnVqA%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A06%253A01ZBTQjY4%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%253Fopenid.assoc_handle%253D%25257BHMAC-SHA1%25257D%25257B49c6b5aa%25257D%25257BajtDGg%25253D%25253D%25257D%2526openid.identity%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bid%25252FHDnmz4T%2526openid.mode%253Did_res%2526openid.op_endpoint%253Dhttps%25253A%25252F%25252Flogin.launchpad.net%25252F%25252Bopenid%2526openid.response_nonce%253D2009-03-22T22%25253A03%25253A22ZCZScuk%2526openid.return_to%253Dhttp%25253A%25252F%25252Fbebuntu.t.nerd.ro%25252Findex.php%25252Flogin%2526openid.sig%253DOhkyoUEIB%25252FhZvetrWxxr2eISPzw%25253D%2526openid.signed%253Dassoc_handle%25252Cidentity%25252Cmode%25252Cop_endpoint%25252Cresponse_nonce%25252Creturn_to%25252Csigned%26openid.sig%3DXmYvlPwcVJ4UGmsD7U26cXTmEsI%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=UC6rE7D7j1XLXlE1tOe74nBo0Sw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b9e2%7D%7BQnl01A%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A21%3A22ZrDKwHl&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OXMzAy98W%2FjmA5rR%2F7mUxTak4UQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b9e2%7D%7BQnl01A%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A21%3A22ZrDKwHl&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OXMzAy98W%2FjmA5rR%2F7mUxTak4UQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b9e2%7D%7BQnl01A%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A21%3A22ZrDKwHl&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OXMzAy98W%2FjmA5rR%2F7mUxTak4UQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6b9e2%7D%7BQnl01A%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A21%3A22ZrDKwHl&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OXMzAy98W%2FjmA5rR%2F7mUxTak4UQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6bb61%7D%7B%2B%2FgI8Q%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A27%3A45ZzdJtuk&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6b9e2%257D%257BQnl01A%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A21%253A22ZrDKwHl%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DOXMzAy98W%252FjmA5rR%252F7mUxTak4UQ%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=PrT6KSBoKCDEKjpWFu4uWQTyuPE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6bc8b%7D%7BjykcNA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A32%3A43ZJucyqU&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=1RThExCczO8QoPXZY00K9qi2OWo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6bc8b%7D%7BjykcNA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A32%3A43ZJucyqU&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=1RThExCczO8QoPXZY00K9qi2OWo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6bc8b%7D%7BjykcNA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A32%3A43ZJucyqU&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=1RThExCczO8QoPXZY00K9qi2OWo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6bc8b%7D%7BjykcNA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A32%3A43ZJucyqU&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=1RThExCczO8QoPXZY00K9qi2OWo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6befd%7D%7BM%2B8D4g%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T22%3A43%3A09ZJADgr7&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6bc8b%257D%257BjykcNA%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-22T22%253A32%253A43ZJucyqU%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3D1RThExCczO8QoPXZY00K9qi2OWo%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned&openid.sig=Xwf41vGAb09Wp2qwgei38%2BzyEmY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login.php
+
+
+POST /index.php/login.php
+
+
+POST /index.php/login.php
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6c8a1%7D%7Bx9%2FLAQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A24%3A17ZbSDDmy&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=STUtWLPVg500%2FE11k8CV6NjH0AY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6c8a1%7D%7Bx9%2FLAQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A24%3A17ZbSDDmy&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=STUtWLPVg500%2FE11k8CV6NjH0AY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/
+
+SELECT * FROM posts  
+
+POST /index.php/login.php
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6c8bd%7D%7B8U4bdw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A24%3A45ZtHMVyl&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=6bJErSx3Fl2J%2Fpff63sMV6eIgRE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/
+
+SELECT * FROM posts  
+
+POST /index.php/login.php
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6c914%7D%7BpzD8%2FA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A26%3A12Zdm4452&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=SVxK4Qo%2FEMT53EG8S1SD8Nq3oro%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6cd44%7D%7BYpY4Pw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A44%3A04ZTGDsjD&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=TJmNzwPmBMCxvZytKIZnqQB7XvY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6cd5c%7D%7Bed2cNg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A44%3A28ZyKpCsB&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=9NLr2Qh0Ug2h9KD91y73kR%2FAhpE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6cdc0%7D%7BpoVldg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FR4nGNCL&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A46%3A08ZTP5e6g&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=ChJdUUGnCQ2%2Br%2FLC277BT827i5g%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6ce5b%7D%7BkFyWXg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A48%3A43Z0hEPZP&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=OJZGJV%2FpVL6WLnmhSR6FFpJm988%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6ce8a%7D%7BrwtjEA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A49%3A30ZKKnHN6&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=iaztoipmxdF9W9QY486ceZlSNyo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6cf20%7D%7BGkNy0Q%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A51%3A59ZFVlWVW&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=0QlDctW6bk0pn044Ysj%2BoKehH6Y%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6cf7b%7D%7BoJ%2FSSg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-22T23%3A53%3A31ZTO948s&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=ylmSJ9a0V12nuZx1%2B4ziSVgnoPI%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e0e3%7D%7BwiZT%2BA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A07%3A47ZnyahlK&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=Vx3a1zViRowXmfTRo1w%2FPUfjzKo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e0e3%7D%7BwiZT%2BA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A07%3A47ZnyahlK&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=Vx3a1zViRowXmfTRo1w%2FPUfjzKo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e0e3%7D%7BwiZT%2BA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A07%3A47ZnyahlK&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=Vx3a1zViRowXmfTRo1w%2FPUfjzKo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e100%7D%7BQZCaEg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A08%3A16ZWLsbyu&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6e0e3%257D%257BwiZT%252BA%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-23T01%253A07%253A47ZnyahlK%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DVx3a1zViRowXmfTRo1w%252FPUfjzKo%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%252Csreg.nickname%26openid.sreg.nickname%3Dsushkov&openid.sig=M7lYw%2Bu49ZFh7vS8iUY9DLcw%2FkE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e0e3%7D%7BwiZT%2BA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A07%3A47ZnyahlK&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=Vx3a1zViRowXmfTRo1w%2FPUfjzKo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov&openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e100%7D%7BQZCaEg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A08%3A16ZWLsbyu&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin%3Fopenid.assoc_handle%3D%257BHMAC-SHA1%257D%257B49c6e0e3%257D%257BwiZT%252BA%253D%253D%257D%26openid.identity%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bid%252FHDnmz4T%26openid.mode%3Did_res%26openid.op_endpoint%3Dhttps%253A%252F%252Flogin.launchpad.net%252F%252Bopenid%26openid.response_nonce%3D2009-03-23T01%253A07%253A47ZnyahlK%26openid.return_to%3Dhttp%253A%252F%252Fbebuntu.t.nerd.ro%252Findex.php%252Flogin%26openid.sig%3DVx3a1zViRowXmfTRo1w%252FPUfjzKo%253D%26openid.signed%3Dassoc_handle%252Cidentity%252Cmode%252Cop_endpoint%252Cresponse_nonce%252Creturn_to%252Csigned%252Csreg.nickname%26openid.sreg.nickname%3Dsushkov&openid.sig=M7lYw%2Bu49ZFh7vS8iUY9DLcw%2FkE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e2b4%7D%7BubXQyQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A15%3A32ZtuZ2Y2&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=wz7L57z2%2BSiYsx9%2BEFvCCQMhoc8%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e380%7D%7BaVS1Hw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A18%3A55ZhmJ8pI&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=teIbbwZ3PtlxQvu%2BYLt586t3zqw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e5df%7D%7Bm83jVQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A29%3A03Zs87nVq&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=b3n4fOOI%2Boi8Gbp4p9nIHBqadGo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e5fc%7D%7BxwZvRg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A29%3A32Z4okRjY&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=xN83xGbWFTJ0TLl%2BizSuieGb2Xw%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e626%7D%7BkhAz4g%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A30%3A14Z4ypM5F&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=FZ4aMhEfdDL2yt4t7EfZO5lW%2FZI%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e632%7D%7B1XoR%2BQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A30%3A26ZksnDQ8&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=5LtiA9ht6LkwWtL1evoKizqv69s%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e693%7D%7Bm6Sutw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A32%3A03ZA5OrxU&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=MdIlAfizWqk4zAIYLsQOPqfEwAg%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e69f%7D%7BGbP%2Bsg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A32%3A15ZrLh1Iv&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=Jpm%2FKVPhSjD4CdHU6OxnUYlXLQo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e788%7D%7BDneHKQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A36%3A08ZYCkINq&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=qsBHedgLzjaFVT1qaTfNBVr3ejc%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c6e79e%7D%7BkMIC5Q%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T01%3A36%3A30ZtGVvae&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=AvqZ5Tp7MhWlnk4Tkoz1w%2Fi5gyk%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+POST /index.php/login
+
+
+GET /index.php/
+
+SELECT * FROM posts  
+
+GET /index.php/login
+
+
+GET /
+
+SELECT * FROM posts  
+
+GET /
+
+SELECT * FROM posts  
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c78795%7D%7Biobc%2Fw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T12%3A59%3A01ZXKouGb&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=VArZJ3IDB%2FkPNrC%2FyXlOG%2BL8iEs%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned
+
+
+GET /
+
+SELECT * FROM posts  
+
+GET /
+
+SELECT * FROM posts  
+
+GET /
+
+SELECT * FROM posts  
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c795aa%7D%7B3Prkmw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T13%3A59%3A06ZSghqB9&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=MZ%2FHO%2BD8%2FGOr8nCFkK3mjbxX%2BQ8%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c795be%7D%7BdShasA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T13%3A59%3A26Z14hXlH&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=3Is19F8rBr3lV4qMOOi5kLM1%2B8E%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c79619%7D%7BRjOg7w%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A00%3A56Z4RERg4&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=UUSOBkLTLK3gfr%2Bqs2cWFpDCo%2Bo%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /
+
+SELECT * FROM posts  
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c79b56%7D%7BspvQQw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A23%3A18ZoOMTnX&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=9mYEHWkOEypMGOj525X06KREavg%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c79be0%7D%7BOpIVWQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A25%3A36ZmPosXd&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=S15duvVJQETDxmsksup5ntseoRE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c79ecb%7D%7BztTUhw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A38%3A03ZXqnSLE&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=dvt4FTCBELCL8mO8Jz2Xhemr%2B5M%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c79f28%7D%7B2djRjw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A39%3A36ZTDbn0n&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=XVZFMr1m%2BRfwRW78czY35KR%2BfzQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c7a0c7%7D%7BIp47sw%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A46%3A31Zj0HaUX&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=Pamev2LdQF5lMwz5DSZvOAsmsOY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c7a0e9%7D%7BkaoaYQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A47%3A05ZEkND9x&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=LcXUbeaUFxd4IJfuoCrsiwN1yao%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c7a180%7D%7BQJlbew%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A49%3A36ZLf3lzx&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=xbcf6oAfJhHLb8Or89HxE%2F5DduY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.mode=id_res&openid.identity=http%3A%2F%2Falexxed.com&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.invalidate_handle=&openid.assoc_handle=oida-1237820093008-1875972857&openid.signed=return_to%2Cidentity&openid.sig=8xmiu52i3PFx%2BTezB7Fl%2FLQN%2BhGjf%2FC2s4uqEYMifXw%3D
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c7a2d9%7D%7BF8Ij4g%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T14%3A55%3A21ZQWIANu&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=5N6ZLzkZVY42Bw2dirCjemyARuY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /index.php/login
+
+
+GET /index.php/login?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49c7a4fa%7D%7BIO3ZfA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-23T15%3A04%3A26ZWaVsLK&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%2Flogin&openid.sig=lnptca4525GJO9ckGo648oVvXmk%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/login
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+POST /
+
+
+POST /
+
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+GET /index.php/login
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cab3d4%7D%7Bivwvjg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T22%3A44%3A36ZCB6tKa&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=yh0lrXpwXsd5ZpdsisQlLLnEtqM%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cab3d4%7D%7Bivwvjg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T22%3A44%3A36ZCB6tKa&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=yh0lrXpwXsd5ZpdsisQlLLnEtqM%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cab597%7D%7BEBRO5Q%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T22%3A52%3A07Z6KCgFQ&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=BHZKQdj%2FzClapBQXRyvmNSbXUt0%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cab597%7D%7BEBRO5Q%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T22%3A52%3A07Z6KCgFQ&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=BHZKQdj%2FzClapBQXRyvmNSbXUt0%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cab5df%7D%7Bd49f3g%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T22%3A53%3A19ZDfraiV&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=pZ3qX2xbNP4dg7fDPq6UlvKDOD0%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cab5df%7D%7Bd49f3g%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T22%3A53%3A19ZDfraiV&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=pZ3qX2xbNP4dg7fDPq6UlvKDOD0%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cab749%7D%7Bj%2Fc%2FgA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T22%3A59%3A21Zvesoq4&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=KOMzJfqH4Cq4SYA%2Fpb1Dpna6uag%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /index.php/admin
+
+
+GET /index.php/login/
+
+
+POST /index.php/login/
+
+
+POST /index.php/login/
+
+
+POST /index.php/login/
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.error=return_to+%27http%3A%2F%2Fbebuntu.t.nerd.ro%27+not+under+trust_root+%27http%3A%2F%2Fbebuntu.t.nerd.ro%2Findex.php%27&openid.mode=error
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cac03c%7D%7Bm1EuhQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T23%3A37%3A32ZJQiZCD&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=vOBnXI6C4W9SsISja%2BZreD6AlWE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cac03c%7D%7Bm1EuhQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T23%3A37%3A32ZJQiZCD&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=vOBnXI6C4W9SsISja%2BZreD6AlWE%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cac10d%7D%7B9WCIlQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-25T23%3A41%3A01ZmagSut&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=QngfvH33GVXSMnL7teGis7Nw96w%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin
+
+
+GET /index.php/index.php/login/
+
+
+GET /index.php/index.php/login/
+
+
+GET /index.php/index.php/login/
+
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.mode=cancel
+
+
+POST /?openid.mode=cancel
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cac608%7D%7BO004OQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-26T00%3A02%3A16ZjSMC4d&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=DqsDWNpfuxsjokCuwQnnKXyBcW0%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+POST /
+
+
+POST /
+
+
+POST /
+
+
+POST /
+
+
+POST /
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+POST /
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+POST /
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/login
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/index.php/admin/
+
+
+GET /index.php/login
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /index.php/login
+
+
+GET /index.php/admin/
+
