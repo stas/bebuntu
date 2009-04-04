@@ -1,9 +1,7 @@
 <?php
-    class Admins extends DatabaseObject {
-        
+    class Team extends DatabaseObject {
         function connect() {
             
         }
-        
     }
 ?>

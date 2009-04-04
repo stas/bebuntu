@@ -1,5 +1,6 @@
 <?php
-    controller Teams extends DatabaseObject {
+    class Question extends DatabaseObject {
+        
         function connect() {
             
         }

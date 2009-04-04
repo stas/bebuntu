@@ -9,6 +9,11 @@ class Database {
     // connect
     $this->handle = new PDO('sqlite:'.ROOT.$connection_info);
     $this->handle->sqliteCreateFunction('regexp','preg_match');
+    // enable database debuggin
+    if(!$GLOBALS['error_reporting']) {
+      $this->handle->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+      $this->handle->setAttribute(PDO::ATTR_EMULATE_PREPARES, false );
+    }
   }
   
   function get_high_key($tablename,$column='id') {

@@ -31,7 +31,7 @@
             $this->is_loggedin();
             $this->title = "List of all administrators.";
             $this->message = "All Administrators";
-            $admins = new Admins;
+            $admins = new Admin;
             pass_var('title', $this->title);
             pass_var('all_admins', $admins->find_all());
             pass_var('message', $this->message);
@@ -39,7 +39,7 @@
         
         function newuser($data) {
             if($data['nickname'] && $data['email']) {
-                $newuser = new Admins;
+                $newuser = new Admin;
                 $newuser->nickname = $_POST['nickname'];
                 $newuser->email = $_POST['email'];
                 $newuser->fullname = $_POST['fullname'];
@@ -48,6 +48,14 @@
             }
             else
                 return false;
+        }
+        
+        function delete() {
+            $this->is_loggedin();
+	    global $runtime;
+	    $to_trash = new Admin($runtime['ident']);
+	    $to_trash->delete();
+	    redirect('admin/all');
         }
         
 	function is_loggedin() {

@@ -36,17 +36,31 @@ p {
 }
 
 label {
-	display: block;
+    display: block;
+    padding: 3px 0;
+}
+
+input, textarea {
+    padding: 3px 1px;
 }
 
 .clearall {
-	clear: both;
-	display: block;
-	width: 100%;
+    clear: both;
+    display: block;
+    width: 100%;
 }
 
-.admin span {
+.admin span, .questions span, .teams span, .countries span {
     display: block;
+}
+
+.teams span {
+    font-size: 80%;
+}
+
+.team .name {
+    text-transform: uppercase;
+    font-size: 100%;
 }
 
 .help {
@@ -60,5 +74,5 @@ label {
     background: #cc0000;
     color: #fff;
     font-size: 10px;
-    padding: 5px;
+    padding: 3px;
 }

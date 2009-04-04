@@ -9,7 +9,7 @@
             $this->is_loggedin();
             $this->title = "Questions";
             $this->message = "BeBuntu Questions";
-            $all_questions = new Questions;
+            $all_questions = new Question;
             pass_var('all_questions', $all_questions->find_all());
             pass_var('title', $this->title);
             pass_var('message', $this->message);
@@ -30,7 +30,7 @@
         
         function newquestion($data) {
             if($data['title'] && $data['explanation']) {
-                $newquestion = new Questions;
+                $newquestion = new Question;
                 $newquestion->title = $data['title'];
                 $newquestion->explanation = sqlite_escape_string($data['explanation']);
                 $newquestion->save();
@@ -43,7 +43,7 @@
         function delete() {
             $this->is_loggedin();
 	    global $runtime;
-	    $to_trash = new Questions($runtime['ident']);
+	    $to_trash = new Question($runtime['ident']);
 	    $to_trash->delete();
 	    redirect('questions/all');
         }
