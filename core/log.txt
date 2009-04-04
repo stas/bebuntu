@@ -1834,3 +1834,725 @@ GET /index.php/admin
 
 GET /index.php/login/
 
+
+POST /index.php/login/
+
+
+GET /
+
+
+POST /
+
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cb2b66%7D%7BwsAWvg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-26T07%3A14%3A46Z923IA5&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=6D2pBNW57GvYbARe%2BQuFQzX3NhY%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49cd4ad0%7D%7BN1rLxg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-03-27T21%3A53%3A20ZwNYewy&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=tnowVWPw1qpSRaRFkXKr7S46fEs%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /
+
+
+GET /
+
+
+GET /index.php/admin/
+
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49d74d68%7D%7BlFesYg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-04-04T12%3A07%3A04ZmoKHfH&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=GQCS8KnFvDbxPwcJrCC0NmR3vzU%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+POST /index.php/admin/add
+
+
+POST /index.php/admin/add
+
+SELECT id FROM Admins  ORDER BY id DESC
+INSERT INTO Admins (nickname, email, fullname, id) VALUES ('adiroiban', 'adi@roiban.ro', 'Adi Roiban', 1)
+
+GET /index.php/admin/add
+
+
+POST /index.php/admin/add
+
+
+POST /index.php/admin/add
+
+SELECT id FROM Admins  ORDER BY id DESC
+INSERT INTO Admins (nickname, email, fullname, id) VALUES ('adiroiban', 'adi@roiban.ro', 'Adi Roiban', 1)
+
+POST /index.php/admin/add
+
+SELECT id FROM Admins  ORDER BY id DESC
+INSERT INTO Admins (nickname, email, fullname, id) VALUES ('adiroiban', 'adi@roiban.ro', 'Adi Roiban', 1)
+
+POST /index.php/admin/add
+
+SELECT id FROM Admins  ORDER BY id DESC
+INSERT INTO Admins (nickname, email, fullname, id) VALUES ('adiroiban', 'adi@roiban.ro', 'Adi Roiban', 1)
+
+POST /index.php/admin/add
+
+SELECT id FROM Admins  ORDER BY id DESC
+INSERT INTO Admins (nickname, email, fullname, id) VALUES ('adiroiban', 'adi@roiban.ro', 'Adi Roiban', 1)
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/show
+
+
+GET /index.php/admin/show
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+POST /index.php/admin/add
+
+SELECT id FROM Admins  ORDER BY id DESC
+INSERT INTO Admins (nickname, email, fullname, id) VALUES ('sushkov', 'stas@nerd.ro', 'Stas SUSHKOV', 2)
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/all
+
+
+GET /index.php/admin
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/add
+
+
+POST /index.php/questions/add
+
+SELECT id FROM Questions  ORDER BY id DESC
+INSERT INTO Questions (title, explanation, id) VALUES ('Are you a codder?', 'Do you like to code or play with programming languages?', 1)
+
+GET /index.php/questions/all
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/questions/all
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+
+
+POST /index.php/questions/add
+
+SELECT id FROM Questions  ORDER BY id DESC
+INSERT INTO Questions (title, explanation, id) VALUES ('Are you a designer/photographer?', 'Do you like to create drawings, photos, vector art, web designs or motions?', 2)
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/delete/2
+
+SELECT DISTINCT * FROM Questions WHERE id = '2' 
+DELETE FROM Questions WHERE id = '2'
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+
+
+POST /index.php/questions/add
+
+SELECT id FROM Questions  ORDER BY id DESC
+INSERT INTO Questions (title, explanation, id) VALUES ('Are you a designer/photographer?', 'Do you like to create all kind of amazing pictures, photos, designs, artworks?', 2)
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /index.php/
+
+
+POST /index.php/
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49d772de%7D%7BlojS8Q%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-04-04T14%3A46%3A54Zqm8aGB&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2F&openid.sig=qzDS00K05ECxKnBIu%2F%2BYi2mIKXQ%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin/
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /index.php/questions/add
+
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+POST /index.php/
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49d78cb4%7D%7B13A5mg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-04-04T16%3A37%3A08Z0lY71l&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro%2F&openid.sig=7WPFLI81rAJ%2Fm%2FSp4gtjyrqqlYc%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin/
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+

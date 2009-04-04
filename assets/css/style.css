@@ -34,3 +34,31 @@ p {
     margin: 5px 0;
     color: #cc0000;
 }
+
+label {
+	display: block;
+}
+
+.clearall {
+	clear: both;
+	display: block;
+	width: 100%;
+}
+
+.admin span {
+    display: block;
+}
+
+.help {
+    text-align: right;
+    padding: 5px 0;
+    font-style: italic;
+}
+
+.delete, .delete a {
+    float: right;
+    background: #cc0000;
+    color: #fff;
+    font-size: 10px;
+    padding: 5px;
+}
