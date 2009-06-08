@@ -597,3 +597,378 @@ SELECT * FROM Countries
 GET /index.php/countries/all
 
 SELECT * FROM Countries  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/teams/add
+
+SELECT * FROM Countries  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /index.php/login
+
+
+POST /index.php/login
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49d8721a%7D%7B6RkQ2g%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHpQxCmB&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-04-05T08%3A55%3A54ZteVFxA&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=5SqKwOZoAfntaJLTcjyCT36If9Q%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=alexeftimie
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/countries/add
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49d92946%7D%7B0krtdQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-04-05T21%3A57%3A26ZBbqta0&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=JetdG4tFJwvpyfbNl5%2BJnlZEQik%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/teams/add
+
+SELECT * FROM Countries  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/countries/add
+
+
+POST /
+
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49d92a8a%7D%7BIkCmBQ%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FR4nGNCL&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-04-05T22%3A02%3A50ZeKcrg3&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=ohPK1xWT8NZ3lpjRZX5h2nTdo10%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=adiroiban
+
+
+GET /index.php/admin/
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /
+
+
+GET /
+
+
+GET /
+
+
+GET /index.php/login
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B49e1b138%7D%7B33RnWg%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-04-12T09%3A15%3A34ZQaiksy&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=LGq%2BoB0q3VAPoivxR9KCwEKUdYI%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin/
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/tags/index
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/tags/index
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/tags/index
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /index.php/tags/index
+
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/login/logout
+
+
+GET /index.php/
+
+
+GET /index.php/
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /index.php/login
+
+
+GET /
+
+
+POST /
+
+
+GET /?openid.assoc_handle=%7BHMAC-SHA1%7D%7B4a2cd845%7D%7BxLeBpA%3D%3D%7D&openid.identity=https%3A%2F%2Flogin.launchpad.net%2F%2Bid%2FHDnmz4T&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Flogin.launchpad.net%2F%2Bopenid&openid.response_nonce=2009-06-08T09%3A22%3A13ZSP4Bff&openid.return_to=http%3A%2F%2Fbebuntu.t.nerd.ro&openid.sig=ZD1gsco3i5s8%2BleeCrsBxPjtBi8%3D&openid.signed=assoc_handle%2Cidentity%2Cmode%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.nickname&openid.sreg.nickname=sushkov
+
+
+GET /index.php/admin/
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
+
+GET /index.php/admin/add
+
+
+GET /index.php/questions/all
+
+SELECT * FROM Questions  
+
+GET /index.php/questions/add
+
+
+GET /index.php/teams/all
+
+SELECT * FROM Teams  
+SELECT * FROM Countries  
+
+GET /index.php/teams/add
+
+SELECT * FROM Countries  
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/countries/add
+
+
+GET /index.php/countries/all
+
+SELECT * FROM Countries  
+
+GET /index.php/tags/index
+
+
+GET /index.php/admin/all
+
+SELECT * FROM Admins  
